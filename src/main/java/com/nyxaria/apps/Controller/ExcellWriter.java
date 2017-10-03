@@ -211,7 +211,6 @@ public class ExcellWriter {
             generateFromTable(new FileOutputStream(file));
         } else {
             System.out.println("!!");
-            //HMOptionPane.showMsgDialog(null, "Data source is null!");
         }
     }
 
