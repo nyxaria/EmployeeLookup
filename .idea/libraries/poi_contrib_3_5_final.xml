@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="poi-contrib-3.5-final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/poi-contrib-3.5-final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
