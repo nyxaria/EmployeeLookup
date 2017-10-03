@@ -209,8 +209,6 @@ public class ExcellWriter {
             generateFromResultSet(new FileOutputStream(file));
         } else if (tbl != null || tm != null) {
             generateFromTable(new FileOutputStream(file));
-        } else {
-            System.out.println("!!");
         }
     }
 
